@@ -17,6 +17,8 @@ xbox 360 wireless controller and adapter
 sudo apt-get install xboxdrv
 sudo apt-get install ros-kinetic-joy
 
+git clone https://github.com/Max-Mobility/RosLaunchFiles
+
 ```
 
 install rtabmap standalone librariies and ros package [using these instructions](https://github.com/introlab/rtabmap_ros#rtabmap_ros-)
