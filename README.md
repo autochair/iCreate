@@ -21,7 +21,7 @@ sudo apt-get install ros-kinetic-joy
 
 install rtabmap standalone librariies and ros package [using these instructions](https://github.com/introlab/rtabmap_ros#rtabmap_ros-)
 
-install [realsense libraries](http://wiki.ros.org/librealsense) and [max mobilities ros package](https://github.com/Max-Mobility/realsense)(install the `no-tf` branch!)
+install [realsense libraries](http://wiki.ros.org/librealsense) and [our ros package](https://github.com/Max-Mobility/realsense)(install the `no-tf` branch!)
 
 install the create_autonomy package [using these instructions](https://github.com/Max-Mobility/create_autonomy)
 
